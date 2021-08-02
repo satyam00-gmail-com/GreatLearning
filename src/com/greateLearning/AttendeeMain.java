@@ -1,5 +1,4 @@
 package com.greateLearning;
-import java.util.Scanner;
 
 public class AttendeeMain {
 	public static void main(String args[]) {
